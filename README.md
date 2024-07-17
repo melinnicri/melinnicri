@@ -26,11 +26,11 @@ I'm looking for a job.
 
 
 **Projects:**
- #### "Analysis of STEAM video game data": The life cycle of a Machine Learning project includes everything from data processing and collection (Data Engineer stuff) to training and maintaining the Machine Learning, ML, model as new data arrives. You have to start from scratch and finally get a Minimum Viable Product, uploaded to an API, using Render, in less than a week. Individual project. Achieved. ####
+ #### ["Analysis of STEAM video game data"](https://github.com/melinnicri/JuegosNewSteam): The life cycle of a Machine Learning project includes everything from data processing and collection (Data Engineer stuff) to training and maintaining the Machine Learning, ML, model as new data arrives. You have to start from scratch and finally get a Minimum Viable Product, uploaded to an API, using Render, in less than a week. Individual project. Achieved. ####
 
-#### "Traffic accident data analysis in CABA, Argentina": Data Analyst role regarding traffic accidents that occurred between 2016 - 2021, in the Autonomous City of Buenos Aires, Argentina. Generation of KPIs and presentation in PowerBI panel, at least one week. Individual project. Achieved. ####
+#### ["Traffic accident data analysis in CABA, Argentina"](https://github.com/melinnicri/AccidTransitoCABA): Data Analyst role regarding traffic accidents that occurred between 2016 - 2021, in the Autonomous City of Buenos Aires, Argentina. Generation of KPIs and presentation in PowerBI panel, at least one week. Individual project. Achieved. ####
 
-#### "Data Analysis, on the Implementation of Electric Passenger Transport in New York City, USA": Role of Data Analyst in the life path of a complete Data Analysis, Machine Learning and Cloud (Azure) Implementation project for live decision making, with new data. Group project, Oikos Data Consulting, 3 weeks. Achieved. ####  
+#### ["Data Analysis, on the Implementation of Electric Passenger Transport in New York City, USA"](https://github.com/Eneachediaz/Proyecto-Taxis-y-Emisiones-de-Carbono): Role of Data Analyst in the life path of a complete Data Analysis, Machine Learning and Cloud (Azure) Implementation project for live decision making, with new data. Group project, Oikos Data Consulting, 3 weeks. Achieved. ####  
   
 
 
