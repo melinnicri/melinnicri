@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-<img src="[(https://www.google.com/url?sa=i&url=https%3A%2F%2Fmrwallpaper.com%2Fwallpapers%2Fcolorful-jungle-graphic-art-xxg7chm676w9i8fp.html&psig=AOvVaw1KSzwQtNAlJvCIaBDl5clm&ust=1721337080447000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiGn73-rocDFQAAAAAdAAAAABAE)](https://www.google.com/imgres?q=Jungle%20cartoon%20picture%20wallpaper&imgurl=https%3A%2F%2Fwallpapermural.com%2Fcdn%2Fshop%2Ffiles%2FTiger_Pastel_Jungle_Wallpaper_Mural_Artwork.png%3Fv%3D1700749170&imgrefurl=https%3A%2F%2Fwallpapermural.com%2Fen-ae%2Fproducts%2Fcute-cartoon-tiger-jungle-wallpaper-mural&docid=CpMcm74nGoyzoM&tbnid=XRagVr-QtSn2-M&vet=12ahUKEwiJz7f9_q6HAxXJHrkGHax0DXMQM3oECGoQAA..i&w=2000&h=993&hcb=2&ved=2ahUKEwiJz7f9_q6HAxXJHrkGHax0DXMQM3oECGoQAA)" align="center" height="400" width="600" />
+<img src="https://www.google.com/imgres?q=Jungle%20cartoon%20picture%20wallpaper&imgurl=https%3A%2F%2Fw0.peakpx.com%2Fwallpaper%2F31%2F1015%2FHD-wallpaper-junglelife-jungle-cute-wild-life-cartoon.jpg&imgrefurl=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-gnsxu&docid=E7MzbTxC8_XuaM&tbnid=1fboJqw_HMCMLM&vet=12ahUKEwiJz7f9_q6HAxXJHrkGHax0DXMQM3oECGcQAA..i&w=800&h=570&hcb=2&ved=2ahUKEwiJz7f9_q6HAxXJHrkGHax0DXMQM3oECGcQAA" align="center" height="400" width="600" />
 </div>  
   
 
