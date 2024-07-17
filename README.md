@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-<img src="[images\stars.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fstar-gif-star-discover-share-gifs--393994667393022758%2F&psig=AOvVaw0EJT4EwukrG8S2NVF9q0Ow&ust=1721336899715000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCQ1ef9rocDFQAAAAAdAAAAABAE)" align="center" height="400" width="1200" />
+<img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fmrwallpaper.com%2Fwallpapers%2Fcolorful-jungle-graphic-art-xxg7chm676w9i8fp.html&psig=AOvVaw1KSzwQtNAlJvCIaBDl5clm&ust=1721337080447000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiGn73-rocDFQAAAAAdAAAAABAE)" align="center" height="400" width="1200" />
 </div>  
   
 
