@@ -31,11 +31,12 @@ I'm looking for a job.
 #### ["Traffic accident data analysis in CABA, Argentina"](https://github.com/melinnicri/AccidTransitoCABA): Data Analyst role regarding traffic accidents that occurred between 2016 - 2021, in the Autonomous City of Buenos Aires, Argentina. Generation of KPIs and presentation in PowerBI panel, at least one week. Individual project. Achieved. ####
 
 #### ["Data Analysis, on the Implementation of Electric Passenger Transport in New York City, USA"](https://github.com/Eneachediaz/Proyecto-Taxis-y-Emisiones-de-Carbono): Role of Data Analyst in the life path of a complete Data Analysis, Machine Learning and Cloud (Azure) Implementation project for live decision making, with new data. Group project, Oikos Data Consulting, 3 weeks. Achieved. ####  
+
   
 **Training:**
-- Programm in Data Science and Machine Learning (SoyHenry Bootcamp. 800 hours of theoretical-practical courses. 2023; GEM, Peru, with certification from the National University of Ucayali, 140 hours, Peru, 2024).
-- Master in Biological Sciences, mention Free Radicals in Biomedicine (University of Valparaíso, Valparaíso, Chile, 2013).
-- Bachelor's degree in Biology (Biologist, PUCV, Valparaíso, Chile, 2002).
+- :mage_man: Programm in Data Science and Machine Learning (SoyHenry Bootcamp. 800 hours of theoretical-practical courses. 2023; GEM, Peru, with certification from the National University of Ucayali, 140 hours, Peru, 2024).
+- :anatomical_heart: Master in Biological Sciences, mention Free Radicals in Biomedicine (University of Valparaíso, Valparaíso, Chile, 2013).
+- :snail: Bachelor's degree in Biology (Biologist, PUCV, Valparaíso, Chile, 2002).
 
 
 - ❓ I learned to scrape databases lately.  
