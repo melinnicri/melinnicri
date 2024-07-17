@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-<img src= (https://www.google.com/imgres?q=jungle%20picture%20army&imgurl=https%3A%2F%2Fd1ldvf68ux039x.cloudfront.net%2Fthumbs%2Fphotos%2F2109%2F6859282%2F1000w_q95.jpg&imgrefurl=https%3A%2F%2Fwww.dvidshub.net%2Fimage%2F6859282%2Fjungle-operations-training-course-jotc-green-mile&docid=inT9-eRX75l9QM&tbnid=KvteeEY5yEL7-M&vet=12ahUKEwib95nlha-HAxWdLrkGHW8jCCYQM3oECGQQAA..i&w=1000&h=667&hcb=2&ved=2ahUKEwib95nlha-HAxWdLrkGHW8jCCYQM3oECGQQAA) align="center" height="400" width="800" />
+<img src= (https://www.google.com/imgres?q=jungle%20picture%20army&imgurl=https%3A%2F%2Fd1ldvf68ux039x.cloudfront.net%2Fthumbs%2Fphotos%2F2109%2F6859282%2F1000w_q95.jpg&imgrefurl=https%3A%2F%2Fwww.dvidshub.net%2Fimage%2F6859282%2Fjungle-operations-training-course-jotc-green-mile&docid=inT9-eRX75l9QM&tbnid=KvteeEY5yEL7-M&vet=12ahUKEwib95nlha-HAxWdLrkGHW8jCCYQM3oECGQQAA..i&w=1000&h=667&hcb=2&ved=2ahUKEwib95nlha-HAxWdLrkGHW8jCCYQM3oECGQQAA) align="center" height="300" width="800" />
 </div>  
   
 
