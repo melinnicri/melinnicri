@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, there! 👋
 
 <div align="center">
 <img src= "https://github.com/melinnicri/melinnicri/blob/main/images/stars.gif" align="center" height="300" width="800" />
