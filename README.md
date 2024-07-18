@@ -84,6 +84,18 @@ I'm looking for a job.
   
 
 <br/>  
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=melinnicri&show_icons=true&count_private=true&hide_border=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=melinnicri&show_icons=true&count_private=true&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=melinnicri&show_icons=true&count_private=true&hide_border=true" />
+</picture>
+
 
 
 ## Github Stats  
