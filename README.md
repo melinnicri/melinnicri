@@ -20,7 +20,7 @@
 - Transitioning into Data Science with hands-on project experience.
 I'm looking for a job.
 
-* Professional with  experience in Biology and training in big data analysis, team leadership and information organization. With knowledge in Statistics, Biostatistics, Machine Learning, technological tools such as Python, SQLserver, Power BI and Mongodb, as well as soft skills such as adaptability, storytelling, creativity and teamwork.
+* Biologist specializing in Data Science and Big Data Analytics, team leadership and information organization. With knowledge in Statistics, Biostatistics, Machine Learning, technological tools such as Python, SQLserver, Power BI and Mongodb, as well as soft skills such as adaptability, storytelling, creativity and teamwork.
  
 * Intermediate level of English (B1/B2).
 
